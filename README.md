@@ -8,7 +8,7 @@
 |:------------ | :------------------------------ | :-------------- | :-------------- | :------- | :---------- | :-------- | :---------|
 |Presentation  | Xiaocen Xie | Xiaocen Xie | Matthew Guzman | Matthew Guzman | Mavis Wang | Siying Wu | Coco | 
 |Project       | All | Mavis Wang | Matthew Guzman | Matthew Guzman | Mavis Wang | Siying Wu | All | 
-|IEEE Paper    | Coco Yu, Siying Wu | Mavis Wang | Matthew Guzman | Matthew Guzman | Mavis Wang, Xiaucen Xie | Siying Wu | Coco |
+|IEEE Paper    | Coco Yu, Xiaocen Xie | Mavis Wang | Matthew Guzman | Matthew Guzman | Mavis Wang, Xiaucen Xie | Siying Wu | Coco |
 
 
 
