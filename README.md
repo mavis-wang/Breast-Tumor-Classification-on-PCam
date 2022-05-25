@@ -1,5 +1,4 @@
 #### MSDA Data255 Deep Learning Project <br>
-Team 1: Mavis Wang, Xiaocen Xie, Coco Yu, Matthew Guzman, Siying Wu
 
 # Breast Tumor Classification on PCam
 <p><img src= 'https://github.com/basveeling/pcam/blob/master/pcam.jpg?raw=true'></p>
